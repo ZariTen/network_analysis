@@ -10,9 +10,9 @@
 2. Começando por uma vértice raíz, itera de forma recursiva até achar a que se busca da seguinte forma:
  Se o nodo não for o que se busca, vai em cada nodo conectado a ele e, caso não sejam, vai em cada nodo conectado a esses até achar o que se busca de forma recursiva.
 
-3.
+3. Um grafo completo com n vértices tem ` (n * (n - 1))/2` vértices. Um grafo completo direcionado tem `(n*(n-1))` vértices.
 
-4. 
+4. O isomorfismo de um grafo se dá quando ele pode existir de diferentes formas tendo o mesmo número de vértices, arestas e as mesmas conexões de aresta entre as vértices
 
 5. 
 
