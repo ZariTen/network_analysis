@@ -17,10 +17,4 @@
 
 6.
 
-7.
-
-8.  Usando o "handshaking theorem" fazemos a seguinte conta: 3 + 3 + 3 + 5 = 14. Como cada aresta conecta duas vértices, então dividimos por dois e temos 7 vértices no total.
-
-9.  Ver notebook.
-
-10.
+7.  Usando o "handshaking theorem" fazemos a seguinte conta: 3 + 3 + 3 + 5 = 14. Como cada aresta conecta duas vértices, então dividimos por dois e temos 7 vértices no total.
